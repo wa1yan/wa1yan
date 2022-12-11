@@ -4,7 +4,7 @@
    - 👋  I am WAI YAN HTET
    -  :telescope: I am a Java Web Devloper from Myanmar.
    - 🌱  I'm currently learning spring framework and Angular. 
-   - 👀  I'm interesting to learn flutter, React Js.
+   - 👀  I'm interesting to learn Angular and flutter.
    -  🔭 How to reach me
    
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-WAI%20YAN%20HTET-blue?style=flat-square&logo=LinkedIn&&logoColor=blue)](https://www.linkedin.com/in/waiyan-htet-0a453a201/)
