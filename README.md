@@ -3,8 +3,8 @@
 
    - 👋  I am WAI YAN HTET
    -  :telescope: I am a Java Web Devloper from Myanmar.
-   - 🌱  I'm currently learning spring framework and Angular. 
-   - 👀  I'm interesting to learn Angular and flutter.
+   - 🌱  I'm currently learning spring framework, springboot and Angular. 
+   - 👀  I'm interesting to learn Devops.
    -  🔭 How to reach me
    
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-WAI%20YAN%20HTET-blue?style=flat-square&logo=LinkedIn&&logoColor=blue)](https://www.linkedin.com/in/waiyan-htet-0a453a201/)
@@ -23,6 +23,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"       height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp; 
+   
 </div>
 
  <div>
@@ -41,7 +43,13 @@ You can click the Preview link to take a look at your changes.
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/subversion/subversion-original-wordmark.svg" title="Svn" **alt="Svn" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" **alt="Gitlab" width="40" height="40"/>
 </div>
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
+ </div>
 
 # Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wa1yan&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
