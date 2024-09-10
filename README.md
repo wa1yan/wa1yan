@@ -8,8 +8,10 @@
    -  🔭 How to reach me
    
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-WAI%20YAN%20HTET-blue?style=flat-square&logo=LinkedIn&&logoColor=blue)](https://www.linkedin.com/in/waiyan-htet-0a453a201/)
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-waiyanucsy1@gmail.com-red?style=flat-square&logo=Gmail&&logoColor=red)]()
 [![Gmail Badge](https://img.shields.io/badge/Gmail-waiyan.javadev@gmail.com-red?style=flat-square&logo=Gmail&&logoColor=red)]()
+
 [![Github Badge](https://img.shields.io/badge/Github-waiyanucsy1@gmail.com-teal?style=flat-square&logo=Github&&logoColor=white)](https://github.com/wa1yan)
 
 
