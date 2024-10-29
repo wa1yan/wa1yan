@@ -41,6 +41,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb"  alt="Mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dynamodb/dynamodb-original.svg" title="DynamoDB" **alt="DynamoDB" width="40" height="40"/>
 </div>
 
  <div>
@@ -52,7 +53,15 @@ You can click the Preview link to take a look at your changes.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
- </div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" **alt="Kafka" width="40" height="40"/>
+   
+</div>
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" **alt="Kubernetes" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rancher/rancher-plain-wordmark.svg" title="Rancher" **alt="Rancher" width="40" height="40"/>
+</div>
 
 # Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wa1yan&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
